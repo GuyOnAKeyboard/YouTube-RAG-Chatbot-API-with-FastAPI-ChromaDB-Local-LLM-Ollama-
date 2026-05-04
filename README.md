@@ -200,5 +200,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 For questions or issues, please open an issue on the GitHub repository.
 
 ---
-
-**Happy questioning!**
