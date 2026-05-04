@@ -1,0 +1,8 @@
+fastapi
+pydantic
+langchain-community
+langchain-text-splitters
+langchain-ollama
+langchain-core
+youtube-transcript-api
+pytube
